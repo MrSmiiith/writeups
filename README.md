@@ -15,6 +15,7 @@ Writeups by **smothy** from **0xN1umb** team.
 | [server-oc](Pragyan_CTF/server-oc/writeup.md) | Web | SSRF + JWT + Prototype Pollution |
 | [talking-mirror](Pragyan_CTF/talking-mirror/writeup.md) | Pwn | GOT overwrite |
 | [c47chm31fy0uc4n](Pragyan_CTF/c47chm31fy0uc4n/writeup.md) | Forensics | Memory dump analysis |
+| [crossing-boundaries](Pragyan_CTF/crossing-boundaries/writeup.md) | Web | HTTP request smuggling |
 
 ---
 
