@@ -14,6 +14,7 @@ Writeups by **smothy** from **0xN1umb** team.
 | [pCalc](Pragyan_CTF/pCalc/writeup.md) | Misc | Python f-string injection |
 | [server-oc](Pragyan_CTF/server-oc/writeup.md) | Web | SSRF + JWT + Prototype Pollution |
 | [talking-mirror](Pragyan_CTF/talking-mirror/writeup.md) | Pwn | GOT overwrite |
+| [c47chm31fy0uc4n](Pragyan_CTF/c47chm31fy0uc4n/writeup.md) | Forensics | Memory dump analysis |
 
 ---
 
